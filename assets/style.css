@@ -54,8 +54,9 @@
 /*....................Services..........................*/
 
 .ourservices{
-  padding: 100px 0px 60px;
-  height: 700px;
+    padding: 100px 0px 60px;
+    height: 700px;
+    width: 100%;
 }
 
 .ourservices h1{
@@ -96,7 +97,51 @@
 
 .section-portfolio{
     background: rgba(250, 250, 250, 0.61);
-    height: 100hv;
+    padding: 100px 0px 60px;
+    height: 700px;
     width: 100%;
-    padding: 50px 0px 10px 0px;
+}
+
+.portfolio-setting{
+    margin-top: 50px;
+}
+
+/*....................Our Team..........................*/
+
+.ourteam {
+    padding: 100px 0px 60px;
+    height: 700px;
+    width: 100%;
+}
+
+.ourteam h1{
+    font-size: 50px;
+    font-weight: bold;
+    font-size: 40px;
+}
+
+.teamsetting{
+    margin-top: 50px;
+}
+
+/*....................Contact Us..........................*/
+.contact{
+    background: rgba(250, 250, 250, 0.61);
+    padding: 100px 0px 60px;
+    height: 700px;
+    width: 100%;
+}
+
+.contact h1{
+    font-size: 50px;
+    font-weight: bold;
+    font-size: 40px;
+}
+
+.footer{
+    height: 50px;
+}
+
+.footer h6{
+    line-height: 50px;
 }
